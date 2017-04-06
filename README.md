@@ -1,2 +1,3 @@
 # Hello-World-
 Debut Project for a new adventure
+Adventure? What adventure you may ask? You need answers? Come with me into the secret world of unspoken but written languages. What might we uncover? Only one way to find out...
